@@ -2,9 +2,7 @@
 
 Proyecto de colección digital Mundial 2026 con funcionalidad de descarga optimizada.
 
-## 🌐 Ver o descargar álbum online
-
-👉 **[Clic](https://figuritas-mundial-2026-eosin.vercel.app/)**
+## 🌐 Ver o descargar álbum onlin[Clic](https://figuritas-mundial-2026-eosin.vercel.app/)
 
 ---
 
